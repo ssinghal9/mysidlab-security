@@ -1,7 +1,7 @@
 ---
 users:
   - name: san1
-    aws_groups: "sangroup, fresno, indio"
+    aws_groups: "losangeles, fresno, indio"
   - name: san2
     aws_groups: "losangeles, sanfransisco, napa"
   - name: san3
